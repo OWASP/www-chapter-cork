@@ -2,7 +2,7 @@
 
 layout: col-sidebar
 title: OWASP Cork
-tags: example-tag
+tags: cork
 level: 0
 
 region: Europe
@@ -11,44 +11,45 @@ auto-migrated: 1
 
 ---
 
+<!-- rebuild -->
 
-<!-- Standard Chapter Page Template
-This is an example of a Project or Chapter page.
-Please change these items to indicate the actual information you wish to present. In addition to this information, the 'front-matter' above the text should be modified to reflect your actual information.  An explanation of each of the front-matter items is below:
+# OWASP Cork
 
-{front matter for this file}
+Welcome to the Cork chapter landing page. 
 
-```
-- layout: This is the layout used by project and chapter pages.  You should leave this value as col-sidebar
-- title: This is the title of your project or chapter page, usually the name.  For example, OWASP Zed Attack Proxy or OWASP Baltimore
-- tags: This is a space-delimited list of tags you associate with your project or chapter.  If you are using tabs, at least one of these tags should be unique in order to be used in the tabs files (an example tab is included in this repo) 
-- region: This is the region you are in according to our data
-```
+The chapter board is:
 
-{copy for this file (index.md)}
-Replace the text above the commented area with your information in the format below:
-```
-## Welcome
-Include some information here about your chapter
+* [Darren Fitzpatrick](mailto:darren.fitzpatrick@owasp.org)
+* [Darragh Duffy](mailto:darragh.duffy@owasp.org)
+* [John O'Riordan](mailto:john.oriordan@owasp.org)
 
-## Participation
-The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects ,tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
+Follow chapter news on [Twitter](https://twitter.com/owaspcork) | [Meetup.com](https://www.meetup.com/OWASP-Cork) | [Facebook](https://www.facebook.com/owaspcork)
 
-Chapters are led by local leaders in accordance with the [Chapter Leader Handbook](/www-policy/rules-of-procedure/chapter-handbook). Financial contributions should only be made online using the authorized online donation button. To be a SPEAKER at ANY OWASP Chapter in the world simply review the [speaker agreement](/www-policy/speaker-agreement) and then contact the local chapter leader with details of what OWASP Project, independent research, or related software security topic you would like to present.
+---
 
-Everyone is welcome and encouraged to participate in our [Projects](/projects), [Local Chapters](/chapters), [Events](/events), [Online Groups](https://groups.google.com/a/owasp.com/){:target='_blank'}, and [Community Slack Channel](https://owasp.slack.com/){:target='_blank'}. We especially encourage diversity in all our initiatives. OWASP is a fantastic place to learn about application security, to network, and even to build your reputation as an expert. We also encourage you to be [become a member](/membership) or consider a [donation](/donate) to support our ongoing work.
+## Next Meeting
 
-## Local News
-- Meeting Location
-- Everyone is welcome to join us at our chapter meetings.
+### Tuesday, 4th Febuary 2020
 
-```
-{info.md}
+**Meetup Registration:**  Everyone is welcome to join us at our chapter meetings, [please RSVP via our Meetup Page](https://www.meetup.com/OWASP-Cork/events/268081403/)
 
-This separate file is where you should place links to your Google Group and Meetup page. It will be automatically rendered in the column sidebar.
+**Location:** Dell Technologies, City Gate, Mahon, Cork.
 
-{leaders.md}
+**Time:** Doors Open at 6pm for registration, pizza, drinks and networking, the talks start at 6:30pm (we start on time).
 
-Another separate file that should simply include each leaders name with mailto link as a list. It will also be automatically rendered in the column sidebar.
+**Talks:**
 
--->
+- Security at a Startup
+  - Joe Lennon
+  - CTO & Co-founder, Workvivo.
+- Industrial Control System Simulation: How to build your own DIY ICS platform
+  - Thomas Roccia
+  - Security Researcher, McAfee Advanced Threat Research.
+
+---
+
+## Speaking at OWASP Cork Chapter Events
+
+### Call For Speakers
+
+Call For Speakers is always open, if you would like to present a talk on Application Security or Security in general we would be delighted to organise the event. Please review and agree with the [OWASP Speaker Agreement](Speaker_Agreement "wikilink") and send the proposed talk title, abstract and speaker bio to the Chapter Leaders via e-mail.
