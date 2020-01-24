@@ -2,17 +2,14 @@
 
 layout: col-sidebar
 title: OWASP Cork
+site_side: true
 tags: cork
-level: 0
-
+level: 3
 region: Europe
-
-auto-migrated: 1
 
 ---
 
 <!-- rebuild -->
-
 # OWASP Cork
 
 Welcome to the Cork chapter landing page. 
@@ -23,7 +20,7 @@ The chapter board is:
 * [Darragh Duffy](mailto:darragh.duffy@owasp.org)
 * [John O'Riordan](mailto:john.oriordan@owasp.org)
 
-Follow chapter news on [Twitter](https://twitter.com/owaspcork) | [Meetup.com](https://www.meetup.com/OWASP-Cork) | [Facebook](https://www.facebook.com/owaspcork)
+Follow chapter news on [Twitter](https://twitter.com/owaspcork) | [Meetup.com](https://www.meetup.com/OWASP-Cork) | [Facebook](https://www.facebook.com/owaspcork) 
 
 ---
 
@@ -37,8 +34,7 @@ Follow chapter news on [Twitter](https://twitter.com/owaspcork) | [Meetup.com](h
 
 **Time:** Doors Open at 6pm for registration, pizza, drinks and networking, the talks start at 6:30pm (we start on time).
 
-**Talks:**
-
+**Talk:**
 - Security at a Startup
   - Joe Lennon
   - CTO & Co-founder, Workvivo.
