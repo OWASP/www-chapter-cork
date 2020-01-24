@@ -3,8 +3,8 @@ title: PastEvents
 displaytext: Past Events
 layout: null
 tab: true
-order: 1
-tags: london
+order: 2
+tags: cork
 ---
 
 ## Past Events here:
@@ -15,7 +15,7 @@ tags: london
 
 **Time:** Doors Open at 6pm for registration, pizza, drinks and networking, the talks start at 6:30pm (we start on time).
 
-**Talks:**
+**Talk:**
 -  Multi Factor Authentication the false narrative
    - Darragh Duffy & John O'Riordan
    - Darragh is a Senior Principal Security Engineer, Dell Technologies
@@ -23,6 +23,7 @@ tags: london
 - An Insider's Guide to Hacking Your Network
   -  Mark O'Sullivan
   -  Penetration Testing, Cyber Risk, Deloitte
+
 
 **Multi Factor Authentication the false narrative**
 
