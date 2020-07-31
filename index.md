@@ -6,6 +6,9 @@ site_side: true
 tags: cork
 level: 3
 region: Europe
+meetup-group: OWASP-Cork
+country: Ireland
+postal-code: 
 
 ---
 
