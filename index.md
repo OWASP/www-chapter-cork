@@ -29,21 +29,16 @@ Follow chapter news on [Twitter](https://twitter.com/owaspcork) | [Meetup.com](h
 
 ## Next Meeting
 
-### Tuesday, 4th Febuary 2020
+### Tuesday, 1st June 2021
 
 **Meetup Registration:**  Everyone is welcome to join us at our chapter meetings, [please RSVP via our Meetup Page](https://www.meetup.com/OWASP-Cork/events/268081403/)
 
-**Location:** Dell Technologies, City Gate, Mahon, Cork.
+**Location:** On line via Zoom
 
-**Time:** Doors Open at 6pm for registration, pizza, drinks and networking, the talks start at 6:30pm (we start on time).
+**Time:**  7pm - 9pm
 
-**Talk:**
-- Security at a Startup
-  - Joe Lennon
-  - CTO & Co-founder, Workvivo.
-- Industrial Control System Simulation: How to build your own DIY ICS platform
-  - Thomas Roccia
-  - Security Researcher, McAfee Advanced Threat Research.
+**Talk:** Shift Left DevSecOps Paradigm [placeholder]
+- This event will feature talks around the 'shift left' paradigm for security in project workflows.
 
 ---
 
@@ -52,6 +47,7 @@ Follow chapter news on [Twitter](https://twitter.com/owaspcork) | [Meetup.com](h
 ### Call For Speakers
 
 Call For Speakers is always open, if you would like to present a talk on Application Security or Security in general we would be delighted to organise the event. Please review and agree with the [OWASP Speaker Agreement](Speaker_Agreement "wikilink") and send the proposed talk title, abstract and speaker bio to the Chapter Leaders via e-mail.
+
 
 Check our Upcoming Meetup Events:
 

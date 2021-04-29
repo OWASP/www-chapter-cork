@@ -9,6 +9,41 @@ tags: cork
 
 ## Past Events here:
 
+### Tuesday, 23rd March 2021
+
+**Meetup Registration:**  Everyone is welcome to join us at our chapter meetings, [please RSVP via our Meetup Page](https://www.meetup.com/OWASP-Cork/events/276818788/)
+
+**Location:** https://us02web.zoom.us/j/88397842638?pwd=WUR0eWQwZEpiN0MzOHJMNE9YdldaUT09
+
+**Time:** 6pm
+
+**Talk:**
+- Deep malware obfuscation
+  - Speaker: Saeid Rezaei - Machine learning researcher at University College Cork
+
+- Adversarial machine learning (AML)
+  - Speakers: Dr. Sorcha Healy Principal Engineer, Lead Data Scientist at McAfee and 
+  - Dr. Catherine Huang - Principal Engineer and Senior Staff Data Scientist at McAfee
+
+
+### Tuesday, 4th Febuary 2020
+
+**Meetup Registration:**  Everyone is welcome to join us at our chapter meetings, [please RSVP via our Meetup Page](https://www.meetup.com/OWASP-Cork/events/268081403/)
+
+**Location:** Dell Technologies, City Gate, Mahon, Cork.
+
+**Time:** Doors Open at 6pm for registration, pizza, drinks and networking, the talks start at 6:30pm (we start on time).
+
+**Talk:**
+- Security at a Startup
+  - Joe Lennon
+  - CTO & Co-founder, Workvivo.
+- Industrial Control System Simulation: How to build your own DIY ICS platform
+  - Thomas Roccia
+  - Security Researcher, McAfee Advanced Threat Research.
+
+---
+
 ### Thursday, 28th November 2019
 
 **Location:** Dell Technologies, City Gate, Mahon, Cork.
