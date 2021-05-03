@@ -31,7 +31,7 @@ Follow chapter news on [Twitter](https://twitter.com/owaspcork) | [Meetup.com](h
 
 ### Tuesday, 1st June 2021
 
-**Meetup Registration:**  Everyone is welcome to join us at our chapter meetings, [please RSVP via our Meetup Page](https://www.meetup.com/OWASP-Cork/events/268081403/)
+**Meetup Registration:**  Everyone is welcome to join us at our chapter meetings,please RSVP via our Meetup Page.
 
 **Location:** On line via Zoom
 
